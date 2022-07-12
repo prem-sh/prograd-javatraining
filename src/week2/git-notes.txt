@@ -15,6 +15,7 @@ git clone [url]
 git remote add [alias] [url]
 git remote rm origin
 git remote rename <old-name> <new-name>
+git push -u origin master
 git remote -v
 git fetch [alias]
 git merge [alias]/[branch]
