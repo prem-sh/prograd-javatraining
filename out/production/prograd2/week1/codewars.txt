@@ -1,0 +1,15 @@
+1 (done) https://www.codewars.com/kata/55f2b110f61eb01779000053/train/cpp
+
+2 (done) https://www.codewars.com/kata/541c8630095125aba6000c00/train/java
+
+3 (done) https://www.codewars.com/kata/542c0f198e077084c0000c2e/train/java
+
+4 (done) https://www.codewars.com/kata/59a8570b570190d313000037/train/java
+
+5 (done) https://www.codewars.com/kata/5266876b8f4bf2da9b000362/train/java
+
+6 (done) https://www.codewars.com/kata/55f8a9c06c018a0d6e000132/train/java
+
+7 (done) https://www.codewars.com/kata/5839edaa6754d6fec10000a2/train/java
+
+8 (done) https://www.codewars.com/kata/52fba66badcd10859f00097e/train/java
